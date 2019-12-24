@@ -146,7 +146,7 @@
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.buttonRead);
             this.Name = "Form1";
-            this.Text = "Толпаров Натан ИУ5-31Б";
+            this.Text = "Гоголь Илья ИУ5-31Б";
             this.ResumeLayout(false);
             this.PerformLayout();
 
