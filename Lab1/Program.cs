@@ -6,7 +6,7 @@ namespace lab1
     {
         static void Main(string[] args)
         {
-            Console.Title = "Толпаров Натан ИУ5-31Б";
+            Console.Title = "Гоголь Илья ИУ5-31Б";
             double A, B, C;
             string a, b, c;
             string answ = "yes";
