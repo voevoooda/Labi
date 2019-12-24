@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LaboratoryWork3.Matrix&lt;T&gt;">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAACAAAAAAAAECAAAAAAAAAAAAAABAAAAAXAAAAA=</HashCode>
+      <FileName>Matrix.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LaboratoryWork3.SimpleListItem&lt;T&gt;">
+    <Position X="4.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAA=</HashCode>
+      <FileName>SimpleList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LaboratoryWork3.SimpleList&lt;T&gt;">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAFBAAAEQAAQAAAABAAAEAACAAAAAAgA=</HashCode>
+      <FileName>SimpleList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LaboratoryWork3.SimpleStack&lt;T&gt;">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>SimpleStack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
