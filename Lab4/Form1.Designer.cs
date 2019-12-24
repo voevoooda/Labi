@@ -1,4 +1,4 @@
-﻿namespace Lab4
+﻿namespace Lab4 
 {
     partial class Form1
     {
@@ -158,7 +158,7 @@
         private System.Windows.Forms.Button buttonFind;
         private System.Windows.Forms.ListBox listBox;
         private System.Windows.Forms.Label labelFind;
-        private System.Windows.Forms.Label labelRead;
+        private System.Windows.Forms.Label labelRead; 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox textBoxLength;
